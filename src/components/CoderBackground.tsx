@@ -14,7 +14,8 @@ export default function CoderBackground() {
 
   const codeElements = [
     "{ }", "</>", "=>", "()", "async", "await", "Flutter", "Dart", "Firebase",
-    "const", "class", "void", "Widget", "Stateful", "State", "BLoC", "GetX"
+    "const", "class", "void", "Widget", "Stateful", "State", "BLoC", "GetX",
+    "OpenAI", "Gemini", "LLM", "Prompt", "AI"
   ];
 
   return (

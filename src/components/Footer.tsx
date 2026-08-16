@@ -70,6 +70,7 @@ export default function Footer() {
               <li className="text-secondary dark:text-gray-400 font-medium">Flutter Development</li>
               <li className="text-secondary dark:text-gray-400 font-medium">Native Android (Java/Kotlin)</li>
               <li className="text-secondary dark:text-gray-400 font-medium">iOS Production Builds</li>
+              <li className="text-secondary dark:text-gray-400 font-medium">AI & ML Integration</li>
               <li className="text-secondary dark:text-gray-400 font-medium">Firebase Architecture</li>
               <li className="text-secondary dark:text-gray-400 font-medium">Advanced State Management</li>
             </ul>

@@ -39,7 +39,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl text-secondary dark:text-gray-400 mb-10 max-w-xl leading-relaxed">
-            I’m <span className="text-foreground font-bold">Virendra Shilpkar</span>, a Senior Flutter Developer with 5.5+ years of experience building scalable, production-ready apps for Android and iOS.
+            I’m <span className="text-foreground font-bold">Virendra Shilpkar</span>, a Senior Flutter Developer with 5.5+ years of experience building scalable, production-ready apps and web backends, now integrating advanced <span className="text-primary font-semibold">AI solutions</span>.
           </p>
 
           <div className="flex flex-wrap gap-4 mb-16">

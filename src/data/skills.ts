@@ -10,7 +10,8 @@ import {
   GitBranch,
   Terminal,
   Cpu,
-  Layers
+  Layers,
+  BrainCircuit
 } from "lucide-react";
 
 export interface Skill {
@@ -89,8 +90,14 @@ export const skills: Skill[] = [
   {
     name: "TensorFlow Lite",
     description: "Integrating machine learning models for on-device image processing and smart features.",
-    category: "Machine Learning",
+    category: "AI & Machine Learning",
     icon: Cpu,
+  },
+  {
+    name: "OpenAI & Gemini",
+    description: "Implementing generative AI features, RAG, and LLM integrations into mobile and web apps.",
+    category: "AI & Machine Learning",
+    icon: BrainCircuit,
   },
   {
     name: "Node.js & Laravel",
